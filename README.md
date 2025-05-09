@@ -1,5 +1,4 @@
-# Save the entire markdown content to a README.md file
-markdown_content = """
+
 # Tree: Structuring Family Histories for Disease Risk Assessment
 
 
